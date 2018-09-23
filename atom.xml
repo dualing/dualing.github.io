@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>LingChen&#39;s blog</title>
+  <icon>https://www.gravatar.com/avatar/ebc2cf765c12f88b9b6c188aeaec00e3</icon>
+  <subtitle>Goals determine what you are going to be</subtitle>
+  <link href="dualing.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://dualing.github.io/"/>
+  <updated>2018-09-23T09:58:28.299Z</updated>
+  <id>https://dualing.github.io/</id>
+  
+  <author>
+    <name>dualing</name>
+    <email>1441425365@qq.com</email>
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>历程</title>
+    <link href="https://dualing.github.io/2018/09/23/%E5%8E%86%E7%A8%8B/"/>
+    <id>https://dualing.github.io/2018/09/23/历程/</id>
+    <published>2018-09-23T07:30:31.000Z</published>
+    <updated>2018-09-23T09:58:28.299Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://dualing.github.io/2018/09/23/hello-world/"/>
+    <id>https://dualing.github.io/2018/09/23/hello-world/</id>
+    <published>2018-09-23T05:06:07.210Z</published>
+    <updated>2018-09-23T05:06:07.210Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
