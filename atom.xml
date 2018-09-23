@@ -39,11 +39,11 @@
   </entry>
   
   <entry>
-    <title>Hello World</title>
+    <title>��ʶJava֮ Hello World</title>
     <link href="https://dualing.github.io/2018/09/23/hello-world/"/>
     <id>https://dualing.github.io/2018/09/23/hello-world/</id>
     <published>2018-09-23T05:06:07.210Z</published>
-    <updated>2018-09-23T05:06:07.210Z</updated>
+    <updated>2018-09-23T17:19:52.274Z</updated>
     
     <summary type="html">
     
@@ -51,11 +51,13 @@
       
         
         
-          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+          &lt;p&gt;Hello World��Դ: 1978��, Brian Kernighanд��һ�������С�C ����������ԡ�,�ڳ���Ա�й�Ϊ����. �����Ȿ���е�һ��д��Hello
         
       
     
     </summary>
+    
+      <category term="��ʶJava" scheme="https://dualing.github.io/categories/%EF%BF%BD%EF%BF%BD%CA%B6Java/"/>
     
     
   </entry>

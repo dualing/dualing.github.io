@@ -6,8 +6,11 @@
     <content type="text"><![CDATA[做程序这一行，怎么能没有一个属于自己的一个域名网站，所以我想到了博客！！花了几天的时间（English都没背好‘。’），搭建出来还是这样一个‘简陋’的博客，出了雏形。虽然是第一次玩博客，不过对于搭建这种东西现在有了点心得（MD这几天被各种坑，错误代码烦的想叫FFFFFFFFF！），所以接下来几天（如果有时间，毕竟大三了，时间都用在学习的上了！！）我会给一些小白更新一些搭建博客的仔细步骤！不过大家先可以配置一些环境（我使用的是Node.js+hexo+github+win10）。]]></content>
   </entry>
   <entry>
-    <title><![CDATA[Hello World]]></title>
+    <title><![CDATA[��ʶJava֮ Hello World]]></title>
     <url>dualing.github.io%2F2018%2F09%2F23%2Fhello-world%2F</url>
-    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+    <content type="text"><![CDATA[Hello World��Դ: 1978��, Brian Kernighanд��һ�������С�C ����������ԡ�,�ڳ���Ա�й�Ϊ����. �����Ȿ���е�һ��д��Hello World����. �������ʼ�Ϊʲôѡ��Hello Worldʱ,���ش�˵:����ֻ�ǵ�,�Һ��񿴹�һ������,����һö������һֻС���Ĺ���,���Ǹ�������,С��˵��һ�䡮Hello World����.����֮��,Hello World�����ڼ������չ��ʷ�ϳ�Ϊ��һ��������Ҫ�������̱�.����Ա�����ĵ�һ��.]]></content>
+      <categories>
+        <category>��ʶJava</category>
+      </categories>
   </entry>
 </search>
