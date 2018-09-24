@@ -2,7 +2,7 @@
 <search>
   <entry>
     <title><![CDATA[初识Java之基本框架]]></title>
-    <url>dualing.github.io%2F2018%2F09%2F24%2F%E5%88%9D%E8%AF%86Java%E4%B9%8B%E5%9F%BA%E6%9C%AC%E6%A1%86%E6%9E%B6%2F</url>
+    <url>%2F2018%2F09%2F24%2F%E5%88%9D%E8%AF%86Java%E4%B9%8B%E5%9F%BA%E6%9C%AC%E6%A1%86%E6%9E%B6%2F</url>
     <content type="text"><![CDATA[public class 类名（文件名）{ 多个static方法public static void main(String[] args){ 过程; 或者调用其他方法; 类名1 对象名=new 类名1(); 对象名.方法名(多个参数); } } //多个class class 类名1(){ 多个属性; 或多个方法; 返回值 方法名(多个形参){ 过程; 构造函数(){…..} } } （有没有觉得很贴心呢-。-）]]></content>
       <categories>
         <category>Java</category>
@@ -13,12 +13,12 @@
   </entry>
   <entry>
     <title><![CDATA[历程]]></title>
-    <url>dualing.github.io%2F2018%2F09%2F23%2F%E5%8E%86%E7%A8%8B%2F</url>
+    <url>%2F2018%2F09%2F23%2F%E5%8E%86%E7%A8%8B%2F</url>
     <content type="text"><![CDATA[做程序这一行，怎么能没有一个属于自己的一个域名网站，所以我想到了博客！！花了几天的时间（English都没背好‘。’），搭建出来还是这样一个‘简陋’的博客，出了雏形。虽然是第一次玩博客，不过对于搭建这种东西现在有了点心得（MD这几天被各种坑，错误代码烦的想叫FFFFFFFFF！），所以接下来几天（如果有时间，毕竟大三了，时间都用在学习的上了！！）我会给一些小白更新一些搭建博客的仔细步骤！不过大家先可以配置一些环境（我使用的是Node.js+hexo+github+win10）。]]></content>
   </entry>
   <entry>
     <title><![CDATA[初识Java之 Hello World]]></title>
-    <url>dualing.github.io%2F2018%2F09%2F23%2Fhello-world%2F</url>
+    <url>%2F2018%2F09%2F23%2Fhello-world%2F</url>
     <content type="text"><![CDATA[Hello World起源: 1978年, Brian Kernighan写了一本书名叫《C 程序设计语言》,在程序员中广为流传. 他在这本书中第一次写出Hello World程序. 当他被问及为什么选择Hello World时,他回答说:”我只记得,我好像看过一幅漫画,讲述一枚鸡蛋和一只小鸡的故事,在那副漫画中,小鸡说了一句‘Hello World’”.从那之后,Hello World程序在计算机发展历史上成为了一个具有重要意义的里程碑.程序员迈出的第一步.]]></content>
       <categories>
         <category>Java</category>
