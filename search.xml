@@ -8,13 +8,19 @@
         <category>Java</category>
       </categories>
       <tags>
-        <tag>-Java</tag>
+        <tag>-框架</tag>
       </tags>
   </entry>
   <entry>
     <title><![CDATA[历程]]></title>
     <url>%2F2018%2F09%2F23%2F%E5%8E%86%E7%A8%8B%2F</url>
-    <content type="text"><![CDATA[做程序这一行，怎么能没有一个属于自己的一个域名网站，所以我想到了博客！！花了几天的时间（English都没背好‘。’），搭建出来还是这样一个‘简陋’的博客，出了雏形。虽然是第一次玩博客，不过对于搭建这种东西现在有了点心得（MD这几天被各种坑，错误代码烦的想叫FFFFFFFFF！），所以接下来几天（如果有时间，毕竟大三了，时间都用在学习的上了！！）我会给一些小白更新一些搭建博客的仔细步骤！不过大家先可以配置一些环境（我使用的是Node.js+hexo+github+win10）。]]></content>
+    <content type="text"><![CDATA[做程序这一行，怎么能没有一个属于自己的一个域名网站，所以我想到了博客!!!花了几天的时间(English都没背好 &amp; &apos;.&apos; &amp;)，搭建出来还是这样一个‘简陋’的博客，出了雏形。虽然是第一次玩博客，&lt;!--more--&gt; 不过对于搭建这种东西现在有了点心得（MD这几天被各种坑，错误代码烦的想叫FFFFFFFFF！），所以接下来几天（如果有时间，毕竟大三了，时间都用在学习的上了！！）我会给一些小白更新一些搭建博客的仔细步骤！不过大家先可以配置一些环境（我使用的是Node.js+hexo+github+win10）。]]></content>
+      <categories>
+        <category>励志</category>
+      </categories>
+      <tags>
+        <tag>-搭建环境</tag>
+      </tags>
   </entry>
   <entry>
     <title><![CDATA[初识Java之 Hello World]]></title>
@@ -24,8 +30,7 @@
         <category>Java</category>
       </categories>
       <tags>
-        <tag>Java</tag>
-        <tag>趣事</tag>
+        <tag>小鸡趣事(Hello world!)</tag>
       </tags>
   </entry>
 </search>

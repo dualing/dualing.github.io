@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://dualing.top/"/>
-  <updated>2018-09-23T20:03:53.592Z</updated>
+  <updated>2018-09-24T15:34:44.078Z</updated>
   <id>http://dualing.top/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://dualing.top/2018/09/24/%E5%88%9D%E8%AF%86Java%E4%B9%8B%E5%9F%BA%E6%9C%AC%E6%A1%86%E6%9E%B6/"/>
     <id>http://dualing.top/2018/09/24/初识Java之基本框架/</id>
     <published>2018-09-23T17:25:46.000Z</published>
-    <updated>2018-09-23T20:03:53.592Z</updated>
+    <updated>2018-09-24T15:34:44.078Z</updated>
     
     <summary type="html">
     
@@ -32,7 +32,7 @@
       <category term="Java" scheme="http://dualing.top/categories/Java/"/>
     
     
-      <category term="-Java" scheme="http://dualing.top/tags/Java/"/>
+      <category term="-框架" scheme="http://dualing.top/tags/%E6%A1%86%E6%9E%B6/"/>
     
   </entry>
   
@@ -41,7 +41,7 @@
     <link href="http://dualing.top/2018/09/23/%E5%8E%86%E7%A8%8B/"/>
     <id>http://dualing.top/2018/09/23/历程/</id>
     <published>2018-09-23T07:30:31.000Z</published>
-    <updated>2018-09-23T18:31:26.724Z</updated>
+    <updated>2018-09-24T15:34:42.570Z</updated>
     
     <summary type="html">
     
@@ -49,12 +49,16 @@
       
         
         
-          &lt;a
+          &lt;pre&gt;&lt;code&gt;做程序这一行，怎么能没有一个属于自己的一个域名网站，所以我想到了博客!!!花了几天的时间(English都没背好 &amp;amp; &amp;apos;.&amp;apos;
         
       
     
     </summary>
     
+      <category term="励志" scheme="http://dualing.top/categories/%E5%8A%B1%E5%BF%97/"/>
+    
+    
+      <category term="-搭建环境" scheme="http://dualing.top/tags/%E6%90%AD%E5%BB%BA%E7%8E%AF%E5%A2%83/"/>
     
   </entry>
   
@@ -62,29 +66,20 @@
     <title>初识Java之 Hello World</title>
     <link href="http://dualing.top/2018/09/23/hello-world/"/>
     <id>http://dualing.top/2018/09/23/hello-world/</id>
-    <published>2018-09-23T05:06:07.210Z</published>
-    <updated>2018-09-23T17:56:19.992Z</updated>
+    <published>2018-09-23T04:30:31.000Z</published>
+    <updated>2018-09-24T15:34:46.389Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;p&gt;Hello World起源: 1978年, Brian Kernighan写了一本书名叫《C 程序设计语言》,在程序员中广为流传. 他在这本书中第一次写出Hello World程序.&lt;/p&gt;
-&lt;p&gt;当他被问及为什么选择Hello
-        
-      
+      &lt;p&gt;  Hello World起源: 1978年, Brian Kernighan写了一本书名叫《C 程序设计语言》,在程序员中广为流传. 他在这本书中第一次写出Hello World程序.&lt;/p&gt;
+&lt;p&gt;当他被问及为什么选择Hello World时,
     
     </summary>
     
       <category term="Java" scheme="http://dualing.top/categories/Java/"/>
     
     
-      <category term="Java" scheme="http://dualing.top/tags/Java/"/>
-    
-      <category term="趣事" scheme="http://dualing.top/tags/%E8%B6%A3%E4%BA%8B/"/>
+      <category term="小鸡趣事(Hello world!)" scheme="http://dualing.top/tags/%E5%B0%8F%E9%B8%A1%E8%B6%A3%E4%BA%8B-Hello-world/"/>
     
   </entry>
   
